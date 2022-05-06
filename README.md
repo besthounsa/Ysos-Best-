@@ -25,7 +25,7 @@
   </strong>
 </h4>
 <i>
-Currently in 1st year at <a href="https://www.epitech.bj" alt="Epitech Bénin">Epitech Cotonou</a> to increase my level in programming, I'm a IT developer with skills in Linux System Administrator. With Epitech's Pedagogy, I learn how to work with a team and how to be autonomous. I love to be constantly in challenge, in order to apply my skills and also to improve them. For now, I'm learning C language, web development using multiple tools, frameworks and libraries both in frontend and backend.
+Currently in 2nd year at <a href="https://www.epitech.bj" alt="Epitech Bénin">Epitech Cotonou</a> to increase my level in programming, I'm a IT developer with skills in Linux System Administrator. With Epitech's Pedagogy, I learn how to work with a team and how to be autonomous. I love to be constantly in challenge, in order to apply my skills and also to improve them. For now, I'm learning C language, web development using multiple tools, frameworks and libraries both in frontend and backend.
 </i>
 
 <br/>
